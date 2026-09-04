@@ -15,3 +15,15 @@ Tecnologias:
 
 testando os commandos rapidos 
 -git push 
+
+
+## Semana 1
+
+Aprendi:
+- Git
+- GitHub
+- Commit
+- Push
+- Pull
+- Clone
+- Branch
