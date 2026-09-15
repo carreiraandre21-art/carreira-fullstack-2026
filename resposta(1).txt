@@ -1,8 +1,3 @@
-desafio git, aquecendo + os comandos 
-
-
-/* 
-
 Exercício 1 — Conceitos
 
 Responda com suas próprias palavras:
@@ -223,7 +218,6 @@ Qual comando você usa para descobrir o que mudou?
 
 r= -Git status
 
-
 Situação 2
 
 Você quer preparar as alterações para um commit.
@@ -231,7 +225,6 @@ Você quer preparar as alterações para um commit.
 Qual comando?
 
 r= -git add
-
 
 Situação 3
 
@@ -241,8 +234,6 @@ Qual comando?
 
 r= - git commit -m "" e/ou  - git push 
 
-
-
 Situação 4
 
 Você quer enviar seus commits para o GitHub.
@@ -251,8 +242,6 @@ Qual comando?
 
 r= git remote add origin URL  e  git push 
 
-
-
 Situação 5
 
 Seu colega fez alterações no GitHub e você quer trazer essas alterações para seu computador.
@@ -260,8 +249,6 @@ Seu colega fez alterações no GitHub e você quer trazer essas alterações par
 Qual comando?
 
 r= git pull
-
-
 
 Situação 6
 
@@ -273,8 +260,6 @@ Qual comando?
 
 r= git branch facture-login
 
-
-
 Situação 7
 
 Você já criou a branch e quer entrar nela.
@@ -282,8 +267,6 @@ Você já criou a branch e quer entrar nela.
 Qual comando?
 
 r= git switch nome_branch
-
-
 
 Situação 8
 
@@ -297,5 +280,3 @@ push
 
 
 r= commit e onde voce vai etiquetar as suas modificaçoes, ja no push é onde voce vai enviar isso a sua gaveta para armazenala 
-
-*/
